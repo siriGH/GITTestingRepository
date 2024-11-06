@@ -1,4 +1,4 @@
 hello
-My name is siri
-how r u doing
+my name is siri
+how r u dong?
 bye
